@@ -2,4 +2,4 @@
 ARDUINO UNO R3 WIREMAZE GAME CODE
 
 SCHEMA LINK 
-t.ly/AwtD
+https://drive.google.com/file/d/1Gvb4DSzt8EYk-FddVewv1c9PNfOQCNA4/view
